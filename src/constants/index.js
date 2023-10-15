@@ -184,27 +184,6 @@ const projects = [
     source_code_link: "https://utkarsh0jha.github.io/projectgpt3/",
   },
   {
-    name: "Job IT",
-    description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/",
-  },
-  {
     name: "Photography Site",
     description:
       "-Uses HTML , CSS , React JS and Bootstrap. And displays top 5 places with their description and photos for ease of travelling.",
