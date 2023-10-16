@@ -89,6 +89,10 @@ const technologies = [
     icon: nodejs,
   },
   {
+    name: "Firebase",
+    icon: typescript,
+  },
+  {
     name: "MongoDB",
     icon: mongodb,
   },
@@ -186,7 +190,7 @@ const projects = [
   {
     name: "Photography Site",
     description:
-      "-Uses HTML , CSS , React JS and Bootstrap. And displays top 5 places with their description and photos for ease of travelling.",
+      "-Uses HTML , CSS , React JS and Bootstrap. And displays Photos of top  places for Photography.",
     tags: [
       {
         name: "HTML",
